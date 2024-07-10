@@ -1,6 +1,6 @@
-### chmod permissions to file in Git?
+### chmod permissions to file in GitHub?
 
-- To set the flag, use following command:
+- To set the flag, use the following command:
 ```
 git update-index --chmod=+x path/to/file
 ```
